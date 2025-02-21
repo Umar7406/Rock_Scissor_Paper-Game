@@ -22,7 +22,7 @@ A simple **Rock Paper Scissors** game built with JavaScript, HTML, and CSS. Play
 ## Installation  
 1. Clone this repository:  
    sh
-   git clone https://github.com/Umar7406/rock-paper-scissors.git
+   git clone https://github.com/Umar7406/rock-paper-scissor.git
      
 2. Open `index.html` in your browser to start playing.  
 
