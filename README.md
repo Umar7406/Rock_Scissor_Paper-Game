@@ -31,12 +31,11 @@ A simple **Rock Paper Scissors** game built with JavaScript, HTML, and CSS. Play
 - CSS  
 - JavaScript  
 
-## Screenshots  
-*(Add game screenshots here)*  
-md
-![Game Screenshot](images/screenshot.png)
-  
+## Screenshots 
+![Game Screenshot 1](Screenshot (14).png)
 
+![Game Screenshot 2](Screenshot (15).png)
+  
 ## Contributing  
 Feel free to contribute by improving the game UI, adding animations, or fixing bugs. Fork the repository and submit a pull request.  
 
