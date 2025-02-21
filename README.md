@@ -24,7 +24,7 @@ A simple **Rock Paper Scissors** game built with JavaScript, HTML, and CSS. Play
    sh
    git clone https://github.com/Umar7406/rock-paper-scissor.git
      
-2. Open `index.html` in your browser to start playing.  
+2. Open `app_game.html` in your browser to start playing.  
 
 ## Technologies Used  
 - HTML  
